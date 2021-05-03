@@ -34,3 +34,15 @@ print(type(test))
 print(abs(-273)) #prints absolute value
 print(round(5.5)) #rounds value 
 print(round(5.4)) #rounds value
+
+#operator precedence
+#Just like pemdas 
+operation = 20 + 3 * 4
+print(operation)
+
+# in order of precendence 
+# ()
+# **
+# * or / 
+# + or - 
+#right to left 
