@@ -18,3 +18,13 @@ dict
 #Specialized Data Types 
 
 None 
+
+
+#Fundmental Data Types 
+#test print type ]
+# int and float
+print(type(6))
+print(type("Hello World"))
+print(type(2/4)) #why is this not a float?
+test = 4.0 
+print(type(test))
