@@ -46,3 +46,8 @@ print(operation)
 # * or / 
 # + or - 
 #right to left 
+
+#complex data types 
+#bin this will print the number in binary  
+print(bin(42))
+print(int('0b101010',2))
