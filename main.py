@@ -28,3 +28,9 @@ print(type("Hello World"))
 print(type(2/4)) #why is this not a float?
 test = 4.0 
 print(type(test))
+
+#math functions 
+
+print(abs(-273)) #prints absolute value
+print(round(5.5)) #rounds value 
+print(round(5.4)) #rounds value
